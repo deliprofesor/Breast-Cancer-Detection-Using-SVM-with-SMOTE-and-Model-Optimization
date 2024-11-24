@@ -68,8 +68,8 @@ Her modelin doğruluk skorları bir çubuk grafik ile karşılaştırılır. ROC
 
 # Projenin Avantajları
 
-_ **Hassas Tespit: Meme kanseri gibi kritik bir alanda doğru sınıflandırma yapmak hayati önem taşır. Farklı modeller denenerek en iyi sonucu veren model seçilir.**
-_ **Sınıf Dengesizliği Çözümü: SMOTE, sınıf dengesizliğini giderir ve azınlık sınıfının (kötü huylu tümör) daha doğru sınıflandırılmasını sağlar.**
-_ **Farklı Çekirdeklerin Karşılaştırılması: Her çekirdek fonksiyonunun performansı karşılaştırılır, böylece hangi çekirdeğin hangi tür verilerde daha iyi çalıştığı anlaşılır.**
-_ **Optimizasyon: Hiperparametre optimizasyonu ile modellerin performansı en üst düzeye çıkarılır.**
-_ **Kapsamlı Değerlendirme: Confusion Matrix, ROC Eğrisi ve diğer metriklerle modeller detaylı olarak analiz edilir.**
+- **Hassas Tespit: Meme kanseri gibi kritik bir alanda doğru sınıflandırma yapmak hayati önem taşır. Farklı modeller denenerek en iyi sonucu veren model seçilir.**
+- **Sınıf Dengesizliği Çözümü: SMOTE, sınıf dengesizliğini giderir ve azınlık sınıfının (kötü huylu tümör) daha doğru sınıflandırılmasını sağlar.**
+- **Farklı Çekirdeklerin Karşılaştırılması: Her çekirdek fonksiyonunun performansı karşılaştırılır, böylece hangi çekirdeğin hangi tür verilerde daha iyi çalıştığı anlaşılır.**
+- **Optimizasyon: Hiperparametre optimizasyonu ile modellerin performansı en üst düzeye çıkarılır.**
+- **Kapsamlı Değerlendirme: Confusion Matrix, ROC Eğrisi ve diğer metriklerle modeller detaylı olarak analiz edilir.**
