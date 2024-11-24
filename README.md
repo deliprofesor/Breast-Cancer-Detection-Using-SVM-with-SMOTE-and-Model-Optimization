@@ -28,6 +28,8 @@ Bu görselleştirmeler, verilerin sınıflar arasında ayrılabilir olup olmadı
 
 SVM algoritması, özelliklerin ölçeklerine duyarlıdır. Bu nedenle tüm sayısal özellikler, StandardScaler ile normalize edilir. Bu işlem, model performansını artırır.
 
+![ROC Curve](https://github.com/user-attachments/assets/75c27bb0-a5e6-4d64-b4ac-bb4f44dda7b3)
+
 # 4. Model Eğitimi ve Değerlendirilmesi
 
 Farklı SVM Modelleri:
@@ -63,7 +65,7 @@ SMOTE sonrası, sınıfların dağılımı görselleştirilir ve modelin perform
 
 Her modelin doğruluk skorları bir çubuk grafik ile karşılaştırılır. ROC Eğrisi ve AUC Skoru: Özellikle RBF çekirdekli SVM modelinin sınıflandırma performansı analiz edilir.
 
-![ROC Curve](https://github.com/user-attachments/assets/75c27bb0-a5e6-4d64-b4ac-bb4f44dda7b3)
+
 
 
 # Projenin Avantajları
