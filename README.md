@@ -1,6 +1,7 @@
 # Breast-Cancer-Detection-Using-SVM-with-SMOTE-and-Model-Optimization
 
-![bre](https://github.com/user-attachments/assets/611f7d3e-6ff1-4542-b4a2-699e797ee27f)
+![caner](https://github.com/user-attachments/assets/d11f0a64-cd72-4e04-8330-8da81282699b)
+
 
 Bu proje, meme kanseri teşhisi için kullanılan bir veri seti üzerinde çalışır. Amaç, tümörlerin iyi huylu (Benign) veya kötü huylu (Malignant) olduğunu sınıflandırmaktır. Projede, Destek Vektör Makineleri (Support Vector Machines - SVM) algoritması kullanılarak bu sınıflandırma yapılır. Ayrıca, sınıf dengesizliği problemini çözmek için SMOTE (Synthetic Minority Oversampling Technique) uygulanır ve model performansı değerlendirilir.
 
